@@ -2,3 +2,11 @@ inside test1.txt
 
 
 echo 'hello wordl!'
+
+I will
+
+create 
+
+a 
+
+conflict
